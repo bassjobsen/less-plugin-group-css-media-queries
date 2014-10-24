@@ -1,4 +1,4 @@
-less-plugin-autoprefix
+less-group-css-media-queries
 ========================
 
 Adds the ability for less to be post-processed by group-css-media-queries
