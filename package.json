@@ -1,0 +1,35 @@
+{
+  "name": "less-plugin-group-css-media-queries",
+  "version": "1.0.0",
+  "description": "group css media queries plugin for less.js",
+  "homepage": "http://lesscss.org",
+  "author": {
+    "name": "Bass Jobsen"
+  }
+  ,
+  "bugs": {
+    "url": "https://github.com/bassjobsen/less-plugin-group-css-media-queries/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bassjobsen/less-plugin-group-css-media-queries.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache v2",
+      "url": "https://github.com/bassjobsen/less-plugin-group-css-media-queries/blob/master/LICENSE"
+    }
+  ],
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=0.4.2"
+  },
+  "dependencies": {
+    "group-css-media-queries": "~1.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "less plugins",
+    "media queries"
+  ]
+}
